@@ -18,7 +18,7 @@ public class OpportunityController {
         return opportunityService.getDealById(Long.parseLong(id));
     }
 
-    @GetMapping
+    @GetMapping("/hello")
     String hello() {
         return "Hello World";
     }
