@@ -12,6 +12,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>sys-hs-customer</artifactId>
 	<version>1.0.0</version>
+	<packaging>war</packaging>
 	<name>sys-hs-customer</name>
 	<description>HubSpot project for Spring Boot</description>
 	<properties>
